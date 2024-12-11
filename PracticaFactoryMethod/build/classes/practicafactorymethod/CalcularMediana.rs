@@ -1,0 +1,1 @@
+PracticaFactoryMethod.CalcularMediana
